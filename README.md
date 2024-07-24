@@ -1,7 +1,3 @@
-# Payroll System
-
-Welcome to the Payroll System repository! This is a payroll management system developed in Python, designed to automate and streamline the process of calculating employee salaries, managing payroll records, and generating payslips. The system is built with simplicity and functionality in mind, making it easy to integrate into any small to medium-sized business environment.
-
 ## Features
 
 - **Employee Management**: Add, update, and remove employee details.
@@ -54,13 +50,10 @@ Follow the on-screen instructions to navigate through the menu and perform the d
 
 Contributions are welcome! If you have any suggestions or improvements, please submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact me at kenethhoriga@live.com
+For any questions or inquiries, please contact me at kenethoriga@live.com
 
 ---
 
