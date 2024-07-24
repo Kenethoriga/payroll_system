@@ -1,0 +1,17 @@
+Serial Number -        100
+Payrate -            $20
+
+Hours worked -       45
+
+Regular Hrs. -       45
+Overtime Hrs.@ $30.0    5     $150.0
+
+Total Pay - $950.0
+
+Federal Income Tax:  $91.96
+State Income Tax:    $355.3
+FICA:                $67.83
+
+Health Insurance:    $39.40
+
+Total Pay to John Snow: $396

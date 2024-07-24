@@ -1,0 +1,17 @@
+Serial Number -        102
+Payrate -            $20
+
+Hours worked -       40
+
+Regular Hrs. -       40
+Overtime Hrs.@ $0    0     $0
+
+Total Pay - $800
+
+Federal Income Tax:  $77.44
+State Income Tax:    $299.2
+FICA:                $57.12
+
+Health Insurance:    $39.40
+
+Total Pay to Frank Trott: $327

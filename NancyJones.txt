@@ -1,0 +1,17 @@
+Serial Number -        103
+Payrate -            $30
+
+Hours worked -       45
+
+Regular Hrs. -       45
+Overtime Hrs.@ $45.0    5     $225.0
+
+Total Pay - $1425.0
+
+Federal Income Tax:  $137.94
+State Income Tax:    $532.95
+FICA:                $101.75
+
+Health Insurance:    $0
+
+Total Pay to Nancy Jones: $652.36

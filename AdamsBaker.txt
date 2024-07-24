@@ -1,0 +1,17 @@
+Serial Number -        101
+Payrate -            $25
+
+Hours worked -       30
+
+Regular Hrs. -       30
+Overtime Hrs.@ $0    0     $0
+
+Total Pay - $750
+
+Federal Income Tax:  $72.6
+State Income Tax:    $280.5
+FICA:                $53.55
+
+Health Insurance:    $0
+
+Total Pay to Adams Baker: $343.35

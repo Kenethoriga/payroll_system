@@ -1,0 +1,17 @@
+Serial Number -        104
+Payrate -            $25
+
+Hours worked -       25
+
+Regular Hrs. -       25
+Overtime Hrs.@ $0    0     $0
+
+Total Pay - $625
+
+Federal Income Tax:  $60.5
+State Income Tax:    $233.75
+FICA:                $44.62
+
+Health Insurance:    $0
+
+Total Pay to Felipe Hernandez: $286.13
