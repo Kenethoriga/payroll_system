@@ -15,14 +15,14 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kenethoriga/payroll-system.git
-cd payroll-system
+git clone https://github.com/kenethoriga/payroll_system.git
+cd payroll_system
 ```
 
 2. Run the payroll system:
 
 ```bash
-python main.py
+python payroll.py
 ```
 
 ## Usage
